@@ -1,0 +1,2714 @@
+{
+    "en": {
+        "chooseLanguage": "Choose language",
+        "english": "English",
+        "french": "Français",
+        "german": "Deutsch",
+        "spanish": "Español",
+        "italian": "Italiano",
+        "headline": "EUROPEAN FOOTBALL <br><span class=\"eufr16-red\">CHAMPIONSHIP</span> <br><span class=\"eufr16-red\">2016</span>",
+        "subline": "Don’t kick off, we’ve got the tickets.",
+        "freeListing": "<span>IT'S FREE </span>to list tickets",
+        "images": "en",
+        "tabGroup": "<b>GROUP</b> MATCHES",
+        "tabKnockout": "<b>KNOCKOUT</b> MATCHES",
+        "tabHowto": "<b>HOW TO</b> BUY & SELL TICKETS",
+        "groupA": "GROUP A",
+        "groupB": "GROUP B",
+        "groupC": "GROUP C",
+        "groupD": "GROUP D",
+        "groupE": "GROUP E",
+        "groupF": "GROUP F",
+        "gameLabel": "Game",
+        "mbBuy": "Buy",
+        "mbSell": "Sell",
+        "sellingExpired": "Buying and selling is closed for this match.",
+        "round16": "Round of <b>16</b>",
+        "quarterFinal": "<b>Quarter</b> Finals",
+        "semiFinal": "<b>Semi</b> Finals",
+        "final": "Final",
+
+        "buyTicketsHl": "<span class=\"eufr16-blue\">BUY</span> TICKETS",
+        "buyTicketsSubl": "We’re here to help you get tickets for fantastic football this summer ­– here’s how:",
+        "buyTicketsBullets": [{
+            "buyTickets": "Find the match you want to go to and click “buy”.",
+            "number": "1"
+        }, {
+            "buyTickets": "We’ll take you to <a href=\"http://www.stubhub.de\">stubhub.de</a> to buy the tickets. The site is in German, so <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_buying_guide_en.pdf\">download our guide to buying tickets</a> that will show you what to do really simply. We’ll help you create a StubHub account too if you don’t already have one.",
+            "number": "2"
+        }, {
+            "buyTickets": "When you’ve bought your tickets we’ll email you a few minutes later to confirm your purchase.",
+            "number": "3"
+        }, {
+            "buyTickets": "You’ll get your tickets either by tracked delivery or you can collect them on the day of the match near the venue.",
+            "number": "4"
+        }],
+        "buyTicketsDownloadCta1": "Download ticket buying guide",
+        "buyTicketsDownloadCta2": "Buy FAQ",
+        "sellTicketsHl": "<span class=\"eufr16-blue\">SELL</span> TICKETS",
+        "sellTicketsSubl": "Have tickets to sell? Here’s what to do:",
+        "sellTicketsBullets": [{
+            "sellTickets": "If you don’t have a StubHub account <a href=\"https://www.stubhub.de/my/profile/\">create one now</a>. Download our guide to creating an account at <a href=\"http://www.stubhub.de\">stubhub.de</a> that will show you what to do, step by step.",
+            "number": "1"
+        }, {
+            "sellTickets": "Before you list your tickets for this special event, we need a bit more information from you than usual. Email our special events team <a href=\"mailto:sonderveranstaltung@stubhub.de\">sonderveranstaltung@stubhub.de</a> and we’ll get back to you with what to do. You won’t be able to list tickets until our special events team has given you the OK.",
+            "number": "2"
+        }, {
+            "sellTickets": "When you’re approved to sell tickets, find the match you want to sell tickets for on this site and click “sell”.",
+            "number": "3"
+        }, {
+            "sellTickets": "We’ll take you to <a href=\"http://www.stubhub.de\">stubhub.de</a> to list your tickets. Download our guide to listing tickets that will show you what to do, step by step.",
+            "number": "4"
+        }, {
+            "sellTickets": "When your tickets sell you’ll get paid 5 – 8 business days after the match.",
+            "number": "5"
+        }],
+        "sellTicketsDownloadCta1": "Download selling tickets journey guide",
+        "sellTicketsDownloadCta2": "Sell FAQ",
+        "whyChoose": "<span class=\"eufr16-blue\">WHY</span> CHOOSE STUBHUB?",
+        "whyChooseDescr": "StubHub is an eBay company. Our FanProtect Guarantee backs every order so you can buy and sell tickets with 100% confidence.",
+        "whyChooseBuySubl": "For buyers:",
+        "whyChooseBuyBullets": [{
+            "whyChooseBuy": "You'll get the tickets you ordered in time for the event and they'll be valid for entry. If that doesn’t happen, we'll find comparable replacement tickets or send you a refund."
+        }, {
+            "whyChooseBuy": "You'll get a refund if your event is cancelled and not rescheduled."
+        }, {
+            "whyChooseBuy": "We handle customer support, so sellers will never contact you directly."
+        }],
+
+        "whyChooseSellSubl": "For sellers:",
+        "whyChooseSellBullets": [{
+            "whyChooseSell": "It's free to list your tickets."
+        }, {
+            "whyChooseSell": "You set your price and can adjust it anytime before your tickets sell."
+        }, {
+            "whyChooseSell": "You'll get paid for all sales you complete as promised in your listing."
+        }, {
+            "whyChooseSell": "You'll never have to deal directly with buyers."
+        }],
+        "faq": "<span class=\"eufr16-blue\">FAQ</span>",
+        "faqQuestions": [{
+            "faqQuestion": "I already have a UK, US or DE StubHub account. Do I need to create a new one?",
+            "faqAnswer": "You don’t need to create a new account. You can use your existing StubHub account to buy football match tickets at <a href=\"http://www.stubhub.de\">stubhub.de</a>.</p><p>Customers who live in England or Wales cannot buy or sell tickets for EURO 2016. This is because of regulations around the resale of football tickets in the UK."
+        }, {
+            "faqQuestion": "How can I buy tickets when I don’t know who’s playing?",
+            "faqAnswer": "Tickets for the knockout stages can be bought without knowing which teams will be playing.  We update ticket details on this site and at <a href=\"http://www.stubhub.de\">stubhub.de</a> when we know who is playing who."
+        }, {
+            "faqQuestion": "When will I get my tickets?",
+            "faqAnswer": "Tickets are released 2 – 3 weeks before each match or will be available on the match day."
+        }, {
+            "faqQuestion": "How will I get my tickets?",
+            "faqAnswer": "You’ll get your tickets either by tracked delivery or you can collect them on the day of the match near the venue."
+        }, {
+            "faqQuestion": "How can I be sure I will get tickets I’ve bought?",
+            "faqAnswer": "We guarantee that you'll get the tickets you ordered in time for the event and that they'll be valid for entry. If that doesn’t happen, we'll find comparable replacement tickets or send you a refund. You'll get a refund if your event is cancelled and not rescheduled."
+        }, {
+            "faqQuestion": "When will I get paid for tickets I’ve sold?",
+            "faqAnswer": "We will pay you 5 – 8 business days after the event, as long as the buyer of your tickets has had no problems getting into the match."
+        }],
+        "lightboxSellHl": "<span class=\"eufr16-blue\">SELL</span> TICKETS",
+        "lightboxSellSl": "To sell tickets for the match you’ve chosen, we’ll take you to <a href=\"http://www.stubhub.de\">stubhub.de</a>. </p><p><b>Before you go, have you:</b>",
+        "lightboxSellBullets": [{
+            "lightboxSell": "<b>Created a StubHub account?</b> If you haven’t, <a href=\"https://www.stubhub.de/my/profile/\">sign up now</a>."
+        }, {
+            "lightboxSell": "<b>Got our approval to sell tickets for this special event?</b> If you haven’t, <a href=\"mailto:sonderveranstaltung@stubhub.de\">email us now</a> telling us you want to sell tickets."
+
+        }, {
+            "lightboxSell": "<b>Yes? You’re good to go.</b> <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_selling_guide_en.pdf\">Download our guide to selling tickets</a> that will show exactly what you need to do."
+
+        }],
+        "lightboxSellCTA": "Sell",
+
+        "lightboxBuyHl": "<span class=\"eufr16-blue\">BUY</span> TICKETS",
+        "lightboxBuySl": "<p><b>To buy tickets for the match you've chosen, we’ll take you to the StubHub German site (<a href=\"http://www.stubhub.de\">stubhub.de</a>).</b> The site is in German, so <b><a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_buying_guide_en.pdf\">download our guide to buying tickets</a></b> for a little help.</p> <p>We’ll help you create a StubHub account too if you don’t already have one.</p>",
+
+        "lightboxBuyCTA": "Buy",
+
+        "teams": {
+            "fra": {
+                "name": "FRA",
+                "flag": "fra"
+            },
+            "eng": {
+                "name": "ENG",
+                "flag": "eng"
+            },
+            "cze": {
+                "name": "CZE",
+                "flag": "cze"
+            },
+            "isl": {
+                "name": "ISL",
+                "flag": "isl"
+            },
+            "aut": {
+                "name": "AUT",
+                "flag": "aut"
+            },
+            "nir": {
+                "name": "NIR",
+                "flag": "nir"
+            },
+            "por": {
+                "name": "POR",
+                "flag": "por"
+            },
+            "esp": {
+                "name": "ESP",
+                "flag": "esp"
+            },
+            "sui": {
+                "name": "SUI",
+                "flag": "sui"
+            },
+            "ita": {
+                "name": "ITA",
+                "flag": "ita"
+            },
+            "bel": {
+                "name": "BEL",
+                "flag": "bel"
+            },
+            "wal": {
+                "name": "WAL",
+                "flag": "wal"
+            },
+            "rou": {
+                "name": "ROU",
+                "flag": "rou"
+            },
+            "alb": {
+                "name": "ALB",
+                "flag": "alb"
+            },
+            "ger": {
+                "name": "GER",
+                "flag": "ger"
+            },
+            "pol": {
+                "name": "POL",
+                "flag": "pol"
+            },
+            "rus": {
+                "name": "RUS",
+                "flag": "rus"
+            },
+            "svk": {
+                "name": "SVK",
+                "flag": "svk"
+            },
+            "cro": {
+                "name": "CRO",
+                "flag": "cro"
+            },
+            "tur": {
+                "name": "TUR",
+                "flag": "tur"
+            },
+            "hun": {
+                "name": "HUN",
+                "flag": "hun"
+            },
+            "irl": {
+                "name": "IRL",
+                "flag": "irl"
+            },
+            "swe": {
+                "name": "SWE",
+                "flag": "swe"
+            },
+            "ukr": {
+                "name": "UKR",
+                "flag": "ukr"
+            },
+
+
+            "a2": {
+                "name": "Team A2",
+                "flag": "tmp_light"
+            },
+            "a3": {
+                "name": "Team A3",
+                "flag": "tmp_light"
+            },
+            "a4": {
+                "name": "Team A4",
+                "flag": "tmp_light"
+            },
+            "a5": {
+                "name": "Team A5",
+                "flag": "tmp_light"
+            },
+            "a6": {
+                "name": "Team A6",
+                "flag": "tmp_light"
+            },
+            "b1": {
+                "name": "Team B1",
+                "flag": "tmp_light"
+            },
+            "b2": {
+                "name": "Team B2",
+                "flag": "tmp_light"
+            },
+            "b3": {
+                "name": "Team B3",
+                "flag": "tmp_light"
+            },
+            "b4": {
+                "name": "Team B4",
+                "flag": "tmp_light"
+            },
+            "b5": {
+                "name": "Team B5",
+                "flag": "tmp_light"
+            },
+            "b6": {
+                "name": "Team B6",
+                "flag": "tmp_light"
+            },
+            "c1": {
+                "name": "Team C1",
+                "flag": "tmp_light"
+            },
+            "c2": {
+                "name": "Team C2",
+                "flag": "tmp_light"
+            },
+            "c3": {
+                "name": "Team C3",
+                "flag": "tmp_light"
+            },
+            "c4": {
+                "name": "Team C4",
+                "flag": "tmp_light"
+            },
+            "c5": {
+                "name": "Team C5",
+                "flag": "tmp_light"
+            },
+            "c6": {
+                "name": "Team C6",
+                "flag": "tmp_light"
+            },
+            "d1": {
+                "name": "Team D1",
+                "flag": "tmp_light"
+            },
+            "d2": {
+                "name": "Team D2",
+                "flag": "tmp_light"
+            },
+            "d3": {
+                "name": "Team D3",
+                "flag": "tmp_light"
+            },
+            "d4": {
+                "name": "Team D4",
+                "flag": "tmp_light"
+            },
+            "d5": {
+                "name": "Team D5",
+                "flag": "tmp_light"
+            },
+            "d6": {
+                "name": "Team D6",
+                "flag": "tmp_light"
+            },
+            "e1": {
+                "name": "Team E1",
+                "flag": "tmp_light"
+            },
+            "e2": {
+                "name": "Team E2",
+                "flag": "tmp_light"
+            },
+            "e3": {
+                "name": "Team E3",
+                "flag": "tmp_light"
+            },
+            "e4": {
+                "name": "Team E4",
+                "flag": "tmp_light"
+            },
+            "e5": {
+                "name": "Team E5",
+                "flag": "tmp_light"
+            },
+            "e6": {
+                "name": "Team E6",
+                "flag": "tmp_light"
+            },
+            "f1": {
+                "name": "Team F1",
+                "flag": "tmp_light"
+            },
+            "f2": {
+                "name": "Team F2",
+                "flag": "tmp_light"
+            },
+            "f3": {
+                "name": "Team F3",
+                "flag": "tmp_light"
+            },
+            "f4": {
+                "name": "Team F4",
+                "flag": "tmp_light"
+            },
+            "f5": {
+                "name": "Team F5",
+                "flag": "tmp_light"
+            },
+            "f6": {
+                "name": "Team F6",
+                "flag": "tmp_light"
+            },
+
+            "wA": {
+                "name": "Winner A",
+                "flag": "tmp_light"
+            },
+            "wB": {
+                "name": "Winner B",
+                "flag": "tmp_light"
+            },
+            "wC": {
+                "name": "Winner C",
+                "flag": "tmp_light"
+            },
+            "wD": {
+                "name": "Winner D",
+                "flag": "tmp_light"
+            },
+            "wE": {
+                "name": "Winner E",
+                "flag": "tmp_light"
+            },
+            "wF": {
+                "name": "Winner F",
+                "flag": "tmp_light"
+            },
+            "ruA": {
+                "name": "Runner-up A",
+                "flag": "tmp_light"
+            },
+            "ruB": {
+                "name": "Runner-up B",
+                "flag": "tmp_light"
+            },
+            "ruC": {
+                "name": "Runner-up C",
+                "flag": "tmp_light"
+            },
+            "ruD": {
+                "name": "Runner-up D",
+                "flag": "tmp_light"
+            },
+            "ruE": {
+                "name": "Runner-up E",
+                "flag": "tmp_light"
+            },
+            "ruF": {
+                "name": "Runner-up F",
+                "flag": "tmp_light"
+            },
+            "thACD": {
+                "name": "3rd A/C/D",
+                "flag": "tmp_light"
+            },
+            "thBEF": {
+                "name": "3rd B/E/F",
+                "flag": "tmp_light"
+            },
+            "thCDE": {
+                "name": "3rd C/D/E",
+                "flag": "tmp_light"
+            },
+            "thABF": {
+                "name": "3rd A/B/F",
+                "flag": "tmp_light"
+            },
+            "w37": {
+                "name": "Winner 37",
+                "flag": "tmp_dark"
+            },
+            "w38": {
+                "name": "Winner 38",
+                "flag": "tmp_dark"
+            },
+            "w39": {
+                "name": "Winner 39",
+                "flag": "tmp_dark"
+            },
+            "w40": {
+                "name": "Winner 40",
+                "flag": "tmp_dark"
+            },
+            "w41": {
+                "name": "Winner 41",
+                "flag": "tmp_dark"
+            },
+            "w42": {
+                "name": "Winner 42",
+                "flag": "tmp_dark"
+            },
+            "w43": {
+                "name": "Winner 43",
+                "flag": "tmp_dark"
+            },
+            "w44": {
+                "name": "Winner 44",
+                "flag": "tmp_dark"
+            },
+            "w45": {
+                "name": "Winner 45",
+                "flag": "tmp_darkest"
+            },
+            "w46": {
+                "name": "Winner 46",
+                "flag": "tmp_darkest"
+            },
+            "w47": {
+                "name": "Winner 47",
+                "flag": "tmp_darkest"
+            },
+            "w48": {
+                "name": "Winner 48",
+                "flag": "tmp_darkest"
+            },
+            "w49": {
+                "name": "Winner 49",
+                "flag": "tmp_lightest"
+            },
+            "w50": {
+                "name": "Winner 50",
+                "flag": "tmp_lightest"
+            }
+        },
+
+        "stadiums": {
+            "sdf": {
+                "name": "Stade de France",
+                "city": "SAINT-DENIS"
+            },
+            "sgg": {
+                "name": "Stade Geoffroy Guichard",
+                "city": "SAINT &Eacute;TIENNE"
+            },
+            "pdp": {
+                "name": "Parc des Princes",
+                "city": "PARIS"
+            },
+            "sv": {
+                "name": "Stade Vélodrome",
+                "city": "MARSEILLE"
+            },
+            "spm": {
+                "name": "Stade Pierre Mauroy",
+                "city": "LILLE MÉTROPOLE"
+            },
+            "sdl": {
+                "name": "Stade de Lyon",
+                "city": "LYON"
+            },
+            "sbd": {
+                "name": "Stade Bollaert-Delelis",
+                "city": "LENS AGGLO"
+            },
+            "sdb": {
+                "name": "Stade de Bordeaux",
+                "city": "BOARDEAUX"
+            },
+            "sdn": {
+                "name": "Stade de Nice",
+                "city": "NICE"
+            },
+            "sdt": {
+                "name": "Stadium de Toulouse",
+                "city": "TOULOUSE"
+            }
+        },
+
+        "months": {
+            "06": "June",
+            "07": "July"
+        },
+
+        "dayPostfix": {
+            "1": "st",
+            "2": "nd",
+            "3": "rd",
+            "_": "th"
+        }
+    },
+    "de": {
+        "chooseLanguage": "Sprache wählen",
+        "english": "English",
+        "french": "Français",
+        "german": "Deutsch",
+        "spanish": "Español",
+        "italian": "Italiano",
+        "headline": "FUSSBALL&ndash;EUROPAMEISTERSCHAFT<br><span class=\"eufr16-red\">2016</span>",
+        "subline": "Nicht aufgeben - wir haben die Tickets!",
+        "freeListing": "Stellen Sie Ihre Tickets <span>kostenlos</span> ein.",
+        "images": "de",
+        "tabGroup": "<b>GRUPPENSPIELE</b>",
+        "tabKnockout": "<b>FINALRUNDE</b>",
+        "tabHowto": "TICKETS KAUFEN UND VERKAUFEN <b>- SO GEHT‘S</b>",
+        "groupA": "GRUPPE A",
+        "groupB": "GRUPPE B",
+        "groupC": "GRUPPE C",
+        "groupD": "GRUPPE D",
+        "groupE": "GRUPPE E",
+        "groupF": "GRUPPE F",
+        "gameLabel": "Spiel",
+        "mbBuy": "Kaufen",
+        "mbSell": "Verkaufen",
+        "sellingExpired": "Für dieses Match können keine Tickets mehr gekauft oder verkauft werden",
+        "round16": "Runde von 16",
+        "quarterFinal": "Viertelfinale",
+        "semiFinal": "Halbfinale",
+        "final": "Finale",
+
+        "buyTicketsHl": "<span class=\"eufr16-blue\">TICKETS</span> KAUFEN",
+        "buyTicketsSubl": "So bekommen Sie Tickets für den vor uns liegenden, fantastischen Fußballsommer:",
+        "buyTicketsBullets": [{
+            "buyTickets": "Gehen Sie zu dem Spiel, das Sie besuchen möchten, und klicken Sie auf „Kaufen“.",
+            "number": "1"
+        }, {
+            "buyTickets": "Sie werden jetzt zur deutschen Website von StubHub (<a href=\"http://www.stubhub.de\">StubHub.de</a>) weitergeleitet, wo Sie die Tickets kaufen können. Laden Sie dazu einfach unseren Leitfaden zum Ticketkauf herunter. Darin erklären wir Ihnen, wie alles funktioniert. Wir helfen Ihnen auch beim Erstellen eines StubHub-Kontos, wenn Sie noch keins haben.",
+            "number": "2"
+        }, {
+            "buyTickets": "Nachdem Sie Ihre Tickets gekauft haben, erhalten Sie von uns wenige Minuten später eine Bestätigungs-E-Mail.",
+            "number": "3"
+        }, {
+            "buyTickets": "Sie erhalten Ihre Tickets entweder per Postversand (mit Sendungsverfolgung) oder Sie holen Sie einfach am Spieltag in der Nähe des Veranstaltungsorts ab.",
+            "number": "4"
+        }],
+        "buyTicketsDownloadCta1": "Jetzt Leitfaden zum Ticketkauf herunterladen",
+        "buyTicketsDownloadCta2": "Ticketkauf - Häufige Fragen",
+        "sellTicketsHl": "<span class=\"eufr16-blue\">TICKETS</span> VERKAUFEN",
+        "sellTicketsSubl": "Sie möchten Tickets verkaufen? So geht‘s:",
+        "sellTicketsBullets": [{
+            "sellTickets": "Zuerst erstellen Sie bitte ein StubHub-Konto, wenn Sie noch keins haben. Laden Sie dazu am besten unseren Leitfaden herunter, der Ihnen Schritt für Schritt erklärt, wie Sie auf der deutschen Website von StubHub ein Nutzerkonto einrichten.",
+            "number": "1"
+        }, {
+            "sellTickets": "Bevor Sie Ihre Tickets für diese Sonderveranstaltung einstellen können, benötigen wir ein paar mehr Informationen von Ihnen als normalerweise üblich. Bitte schicken Sie dazu eine E-Mail an: <a href=\"mailto:sonderveranstaltung@stubhub.de\">sonderveranstaltung@stubhub.de</a>  Wir werden Ihnen dann umgehend mitteilen, was noch zu tun ist. Sie können erst Tickets verkaufen, wenn unser Team für Sonderveranstaltungen Sie dafür freigeschaltet hat.",
+            "number": "2"
+        }, {
+            "sellTickets": "Wenn Sie für den Ticketverkauf zugelassen wurden, suchen Sie einfach das Spiel, für das Sie Tickets verkaufen möchten, und klicken auf „Verkaufen“.",
+            "number": "3"
+        }, {
+            "sellTickets": "Nun werden Sie zur deutschen StubHub-Website (<a href=\"http://www.stubhub.de\">(StubHub.de)</a>) weitergeleitet, auf der Sie Ihre Tickets einstellen können. Laden Sie dazu am besten unseren Leitfaden zum Ticketverkauf herunter. Darin erklären wir Ihnen Schritt für Schritt, was zu tun ist.",
+            "number": "4"
+        }, {
+            "sellTickets": "Wenn Ihre Tickets verkauft wurden, erhalten Sie Ihr Geld 5-8 Werktage nach dem Spiel.",
+            "number": "5"
+        }],
+        "sellTicketsDownloadCta1": "Jetzt Leitfaden zum Ticketverkauf herunterladen",
+        "sellTicketsDownloadCta2": "Verkauf - Häufige Fragen",
+        "whyChoose": "<span class=\"eufr16-blue\">WIESO</span> STUBHUB??",
+        "whyChooseDescr": "StubHub ist ein eBay-Unternehmen. Wir sorgen dafür, dass Sie Ihre Tickets auf unserem Marktplatz sicher kaufen und verkaufen können.",
+        "whyChooseBuySubl": "Für Käufer:",
+        "whyChooseBuyBullets": [{
+            "whyChooseBuy": " Sie erhalten die von Ihnen gekauften Tickets rechtzeitig zum jeweiligen Spiel. Die Tickets berechtigen Sie zum Eintritt. Wenn die Tickets nicht rechtzeitig bei Ihnen eintreffen, organisieren wir vergleichbare oder bessere Ersatztickets oder erstatten Ihnen den Kaufpreis."
+        }, {
+            "whyChooseBuy": "Wenn das Spiel abgesagt und kein neuer Termin angesetzt wird, erstatten wir Ihnen den Kaufpreis."
+        }, {
+            "whyChooseBuy": "Unser Kundenservice kümmert sich um Ihre Anliegen. Sie müssen daher den Verkäufer nie direkt kontaktieren."
+        }],
+
+        "whyChooseSellSubl": " Für Verkäufer:",
+        "whyChooseSellBullets": [{
+            "whyChooseSell": "Sie legen den Preis selbst fest. Sie können ihn jederzeit ändern, sofern die Tickets noch nicht verkauft sind."
+        }, {
+            "whyChooseSell": "Sie erhalten Ihr Geld 5-8 Werktage nach dem jeweiligen Spiel für alle abgeschlossenen Verkäufe, die Sie gemäß Ihren Angeboten abgewickelt haben."
+        }, {
+            "whyChooseSell": "Unser Kundenservice kümmert sich für Sie um alle Kundenanfragen."
+        }],
+        "faq": "<span class=\"eufr16-blue\">HÄUFIG</span> GESTELLTE FRAGEN",
+        "faqQuestions": [{
+            "faqQuestion": "Ich habe bereits ein StubHub-Konto in Großbritannien, den USA oder Deutschland. Muss ich ein neues Konto erstellen?",
+            "faqAnswer": "Sie müssen kein neues Konto erstellen. Sie können Ihr bestehendes StubHub-Konto für den Kauf von Eintrittskarten für Fußballspiele bei StubHub.de verwenden.</p><p>Hinweis: Interessierte, die in England oder Wales leben, können keine Tickets für die EM 2016 kaufen oder verkaufen. Grund dafür sind die Gesetze zum Wiederverkauf von Fußballtickets in Großbritannien."
+        }, {
+            "faqQuestion": "Wie kann ich Tickets kaufen, wenn ich nicht weiß, wer spielen wird?",
+            "faqAnswer": "Tickets für die Finalrunde können gekauft werden, ohne zu wissen, welche Teams spielen werden. Wir aktualisieren die Informationen zu den Tickets auf dieser Sonderseite und bei StubHub.de, sobald wir wissen, wer gegen wen spielt."
+        }, {
+            "faqQuestion": "Wann erhalte ich meine Tickets?",
+            "faqAnswer": "Die Tickets werden 2-3 Wochen vor jedem Spiel freigegeben oder am Spieltag erhältlich sein."
+        }, {
+            "faqQuestion": "Wie bekomme ich meine Tickets?",
+            "faqAnswer": "Sie erhalten Ihre Tickets entweder per Postversand (mit Sendungsverfolgung) oder können sie am Spieltag in der Nähe des Veranstaltungsorts abholen."
+        }, {
+            "faqQuestion": "Wie kann ich sicher sein, dass ich die Tickets bekomme, die ich gekauft habe?",
+            "faqAnswer": "Wir versprechen Ihnen, dass Sie die von Ihnen bestellten Tickets rechtzeitig und für das entsprechende Spiel erhalten, und dass diese Tickets Sie zum Eintritt berechtigen. Ist dies nicht der Fall, werden wir Ihnen vergleichbare oder bessere Ersatztickets besorgen oder den Kaufpreis zurückerstatten. Wenn das Spiel abgesagt und kein neuer Termin angesetzt wird, erstatten wir Ihnen den Kaufpreis."
+        }, {
+            "faqQuestion": "Wann erhalte ich das Geld für von mir verkaufte Tickets?",
+            "faqAnswer": "Wir zahlen Sie 5-8 Werktage nach dem Spiel aus, vorausgesetzt, der Käufer Ihrer Tickets hatte keine Probleme beim Einlass."
+        }],
+
+        "lightboxSellHl": "<span class=\"eufr16-blue\">TICKETS</span> VERKAUFEN",
+        "lightboxSellSl": "<b>Um Tickets für das von Ihnen ausgewählte Spiel verkaufen zu können, leiten wir Sie auf die deutsche Seite von StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) weiter.</b></p><p><b>Beachten Sie Folgendes, bevor Sie die deutsche Seite besuchen: </b>",
+        "lightboxSellBullets": [{
+            "lightboxSell": "<b>Haben Sie bereits ein StubHub-Konto eingerichtet? </b> Wenn nicht, melden Sie sich  <a href=\"https://www.stubhub.de/my/profile/\">jetzt an</a>."
+        }, {
+            "lightboxSell": "<b>Haben Sie von uns die Genehmigung erhalten, Tickets für diese Veranstaltung verkaufen? </b> Wenn nicht, schicken <a href=\"mailto:sonderveranstaltung@stubhub.de\">Sie uns eine E-Mail,</a> in der Sie uns mitteilen, dass Sie Tickets verkaufen möchten. "
+
+        }, {
+            "lightboxSell": "<b>Wenn ja: Dann kann es losgehen. </b><a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_selling_guide_de.pdf\">Laden Sie unseren Leitfaden zum Verkauf von Tickets herunter,</a> in dem genau beschrieben ist, wie Sie vorgehen müssen."
+
+        }],
+        "lightboxSellCTA": "VERKAUFEN",
+
+        "lightboxBuyHl": "<span class=\"eufr16-blue\">TICKETS</span> KAUFEN",
+        "lightboxBuySl": "<b>Um die Tickets für das von Ihnen ausgewählte Spiel kaufen zu können, leiten wir Sie auf die deutsche Seite von StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) weiter.</b></p><p>Laden Sie sich als kleine Hilfe unseren Leitfaden für den Kauf von Tickets herunter.</p><p>Wenn Sie nicht bereits ein Konto bei StubHub haben, zeigen wir Ihnen auch gerne, wie Sie eins einrichten können.",
+
+        "lightboxBuyCTA": "KAUFEN",
+
+        "teams": {
+            "fra": {
+                "name": "FRA",
+                "flag": "fra"
+            },
+            "eng": {
+                "name": "ENG",
+                "flag": "eng"
+            },
+            "cze": {
+                "name": "CZE",
+                "flag": "cze"
+            },
+            "isl": {
+                "name": "ISL",
+                "flag": "isl"
+            },
+            "aut": {
+                "name": "AUT",
+                "flag": "aut"
+            },
+            "nir": {
+                "name": "NIR",
+                "flag": "nir"
+            },
+            "por": {
+                "name": "POR",
+                "flag": "por"
+            },
+            "esp": {
+                "name": "ESP",
+                "flag": "esp"
+            },
+            "sui": {
+                "name": "SUI",
+                "flag": "sui"
+            },
+            "ita": {
+                "name": "ITA",
+                "flag": "ita"
+            },
+            "bel": {
+                "name": "BEL",
+                "flag": "bel"
+            },
+            "wal": {
+                "name": "WAL",
+                "flag": "wal"
+            },
+            "rou": {
+                "name": "ROU",
+                "flag": "rou"
+            },
+            "alb": {
+                "name": "ALB",
+                "flag": "alb"
+            },
+            "ger": {
+                "name": "GER",
+                "flag": "ger"
+            },
+            "pol": {
+                "name": "POL",
+                "flag": "pol"
+            },
+            "rus": {
+                "name": "RUS",
+                "flag": "rus"
+            },
+            "svk": {
+                "name": "SVK",
+                "flag": "svk"
+            },
+            "cro": {
+                "name": "CRO",
+                "flag": "cro"
+            },
+            "tur": {
+                "name": "TUR",
+                "flag": "tur"
+            },
+            "hun": {
+                "name": "HUN",
+                "flag": "hun"
+            },
+            "irl": {
+                "name": "IRL",
+                "flag": "irl"
+            },
+            "swe": {
+                "name": "SWE",
+                "flag": "swe"
+            },
+            "ukr": {
+                "name": "UKR",
+                "flag": "ukr"
+            },
+
+
+            "a2": {
+                "name": "Team A2",
+                "flag": "tmp_light"
+            },
+            "a3": {
+                "name": "Team A3",
+                "flag": "tmp_light"
+            },
+            "a4": {
+                "name": "Team A4",
+                "flag": "tmp_light"
+            },
+            "a5": {
+                "name": "Team A5",
+                "flag": "tmp_light"
+            },
+            "a6": {
+                "name": "Team A6",
+                "flag": "tmp_light"
+            },
+            "b1": {
+                "name": "Team B1",
+                "flag": "tmp_light"
+            },
+            "b2": {
+                "name": "Team B2",
+                "flag": "tmp_light"
+            },
+            "b3": {
+                "name": "Team B3",
+                "flag": "tmp_light"
+            },
+            "b4": {
+                "name": "Team B4",
+                "flag": "tmp_light"
+            },
+            "b5": {
+                "name": "Team B5",
+                "flag": "tmp_light"
+            },
+            "b6": {
+                "name": "Team B6",
+                "flag": "tmp_light"
+            },
+            "c1": {
+                "name": "Team C1",
+                "flag": "tmp_light"
+            },
+            "c2": {
+                "name": "Team C2",
+                "flag": "tmp_light"
+            },
+            "c3": {
+                "name": "Team C3",
+                "flag": "tmp_light"
+            },
+            "c4": {
+                "name": "Team C4",
+                "flag": "tmp_light"
+            },
+            "c5": {
+                "name": "Team C5",
+                "flag": "tmp_light"
+            },
+            "c6": {
+                "name": "Team C6",
+                "flag": "tmp_light"
+            },
+            "d1": {
+                "name": "Team D1",
+                "flag": "tmp_light"
+            },
+            "d2": {
+                "name": "Team D2",
+                "flag": "tmp_light"
+            },
+            "d3": {
+                "name": "Team D3",
+                "flag": "tmp_light"
+            },
+            "d4": {
+                "name": "Team D4",
+                "flag": "tmp_light"
+            },
+            "d5": {
+                "name": "Team D5",
+                "flag": "tmp_light"
+            },
+            "d6": {
+                "name": "Team D6",
+                "flag": "tmp_light"
+            },
+            "e1": {
+                "name": "Team E1",
+                "flag": "tmp_light"
+            },
+            "e2": {
+                "name": "Team E2",
+                "flag": "tmp_light"
+            },
+            "e3": {
+                "name": "Team E3",
+                "flag": "tmp_light"
+            },
+            "e4": {
+                "name": "Team E4",
+                "flag": "tmp_light"
+            },
+            "e5": {
+                "name": "Team E5",
+                "flag": "tmp_light"
+            },
+            "e6": {
+                "name": "Team E6",
+                "flag": "tmp_light"
+            },
+            "f1": {
+                "name": "Team F1",
+                "flag": "tmp_light"
+            },
+            "f2": {
+                "name": "Team F2",
+                "flag": "tmp_light"
+            },
+            "f3": {
+                "name": "Team F3",
+                "flag": "tmp_light"
+            },
+            "f4": {
+                "name": "Team F4",
+                "flag": "tmp_light"
+            },
+            "f5": {
+                "name": "Team F5",
+                "flag": "tmp_light"
+            },
+            "f6": {
+                "name": "Team F6",
+                "flag": "tmp_light"
+            },
+
+            "wA": {
+                "name": "Gewinner A",
+                "flag": "tmp_light"
+            },
+            "wB": {
+                "name": "Gewinner B",
+                "flag": "tmp_light"
+            },
+            "wC": {
+                "name": "Gewinner C",
+                "flag": "tmp_light"
+            },
+            "wD": {
+                "name": "Gewinner D",
+                "flag": "tmp_light"
+            },
+            "wE": {
+                "name": "Gewinner E",
+                "flag": "tmp_light"
+            },
+            "wF": {
+                "name": "Gewinner F",
+                "flag": "tmp_light"
+            },
+            "ruA": {
+                "name": "Zweitplatzierter A",
+                "flag": "tmp_light"
+            },
+            "ruB": {
+                "name": "Zweitplatzierter B",
+                "flag": "tmp_light"
+            },
+            "ruC": {
+                "name": "Zweitplatzierter C",
+                "flag": "tmp_light"
+            },
+            "ruD": {
+                "name": "Zweitplatzierter D",
+                "flag": "tmp_light"
+            },
+            "ruE": {
+                "name": "Zweitplatzierter E",
+                "flag": "tmp_light"
+            },
+            "ruF": {
+                "name": "Zweitplatzierter F",
+                "flag": "tmp_light"
+            },
+            "thACD": {
+                "name": "3. A/C/D",
+                "flag": "tmp_light"
+            },
+            "thBEF": {
+                "name": "3. B/E/F",
+                "flag": "tmp_light"
+            },
+            "thCDE": {
+                "name": "3. C/D/E",
+                "flag": "tmp_light"
+            },
+            "thABF": {
+                "name": "3. A/B/F",
+                "flag": "tmp_light"
+            },
+            "w37": {
+                "name": "Gewinner 37",
+                "flag": "tmp_dark"
+            },
+            "w38": {
+                "name": "Gewinner 38",
+                "flag": "tmp_dark"
+            },
+            "w39": {
+                "name": "Gewinner 39",
+                "flag": "tmp_dark"
+            },
+            "w40": {
+                "name": "Gewinner 40",
+                "flag": "tmp_dark"
+            },
+            "w41": {
+                "name": "Gewinner 41",
+                "flag": "tmp_dark"
+            },
+            "w42": {
+                "name": "Gewinner 42",
+                "flag": "tmp_dark"
+            },
+            "w43": {
+                "name": "Gewinner 43",
+                "flag": "tmp_dark"
+            },
+            "w44": {
+                "name": "Gewinner 44",
+                "flag": "tmp_dark"
+            },
+            "w45": {
+                "name": "Gewinner 45",
+                "flag": "tmp_darkest"
+            },
+            "w46": {
+                "name": "Gewinner 46",
+                "flag": "tmp_darkest"
+            },
+            "w47": {
+                "name": "Gewinner 47",
+                "flag": "tmp_darkest"
+            },
+            "w48": {
+                "name": "Gewinner 48",
+                "flag": "tmp_darkest"
+            },
+            "w49": {
+                "name": "Gewinner 49",
+                "flag": "tmp_lightest"
+            },
+            "w50": {
+                "name": "Gewinner 50",
+                "flag": "tmp_lightest"
+            }
+        },
+
+        "stadiums": {
+            "sdf": {
+                "name": "Stade de France",
+                "city": "SAINT-DENIS"
+            },
+            "sgg": {
+                "name": "Stade Geoffroy Guichard",
+                "city": "SAINT &Eacute;TIENNE"
+            },
+            "pdp": {
+                "name": "Parc des Princes",
+                "city": "PARIS"
+            },
+            "sv": {
+                "name": "Stade Vélodrome",
+                "city": "MARSEILLE"
+            },
+            "spm": {
+                "name": "Stade Pierre Mauroy",
+                "city": "LILLE MÉTROPOLE"
+            },
+            "sdl": {
+                "name": "Stade de Lyon",
+                "city": "LYON"
+            },
+            "sbd": {
+                "name": "Stade Bollaert-Delelis",
+                "city": "LENS AGGLO"
+            },
+            "sdb": {
+                "name": "Stade de Bordeaux",
+                "city": "BOARDEAUX"
+            },
+            "sdn": {
+                "name": "Stade de Nice",
+                "city": "NICE"
+            },
+            "sdt": {
+                "name": "Stadium de Toulouse",
+                "city": "TOULOUSE"
+            }
+        },
+
+        "months": {
+            "06": "June",
+            "07": "Juli"
+        },
+
+        "dayPostfix": {
+            "1": ".",
+            "2": ".",
+            "3": ".",
+            "_": "."
+        }
+    },
+    "fr": {
+        "chooseLanguage": "Choisir la langue",
+        "english": "English",
+        "french": "Français",
+        "german": "Deutsch",
+        "spanish": "Español",
+        "italian": "Italiano",
+        "headline": "CHAMPIONNAT D’EUROPE <br><span class=\"eufr16-red\">DE FOOTBALL</span><br><span class=\"eufr16-red\">2016</span>",
+        "subline": "Pas de panique, on a les billets !",
+        "freeListing": "Mettez en vente vos billets <span>gratuitement</span>",
+        "images": "fr",
+        "tabGroup": "<b>MATCHES</b> PAR GROUPE",
+        "tabKnockout": "<b>MATCHES</b> À ÉLIMINATION DIRECTE",
+        "tabHowto": "<b>COMMENT ACHETER</b> ET VENDRE DES BILLETS",
+        "groupA": "GROUPE A",
+        "groupB": "GROUPE B",
+        "groupC": "GROUPE C",
+        "groupD": "GROUPE D",
+        "groupE": "GROUPE E",
+        "groupF": "GROUPE F",
+        "gameLabel": "Match",
+        "mbBuy": "Acheter",
+        "mbSell": "Vend",
+        "sellingExpired": "Les achats et les ventes sont terminés pour ce match",
+        "round16": "<b>Huitième de</b> finale",
+        "quarterFinal": "<b>Quarts</b> de finale",
+        "semiFinal": "<b>Demi-</b>finales",
+        "final": "Finale",
+
+        "buyTicketsHl": "<span class=\"eufr16-blue\">ACHETER</span> DES BILLETS",
+        "buyTicketsSubl": "Nous sommes là pour vous aider à acheter des billets pour profiter de matches de foot incroyables cet été. Voici comment vous y prendre :",
+        "buyTicketsBullets": [{
+            "buyTickets": "Trouvez le match auquel vous souhaitez assister et cliquez sur « acheter ».",
+            "number": "1"
+        }, {
+            "buyTickets": "Vous serez redirigé vers le site allemand de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) afin d’acheter des billets. Le site est en allemand. Vous devrez donc télécharger notre guide d’achat de billets qui vous expliquera les étapes à suivre très simplement. Nous vous aiderons également à créer un compte StubHub si vous n’en avez pas.",
+            "number": "2"
+        }, {
+            "buyTickets": "Quelques minutes après avoir acheté vos billets, vous recevrez un e-mail de confirmation d’achat.",
+            "number": "3"
+        }, {
+            "buyTickets": " Vous recevrez vos billets par lettre suivie ou vous pouvez les récupérer le jour du match près du stade.",
+            "number": "4"
+        }],
+        "buyTicketsDownloadCta1": "Télécharger le guide d’achat de billets",
+        "buyTicketsDownloadCta2": "Questions fréquentes",
+        "sellTicketsHl": "<span class=\"eufr16-blue\">VENDRE</span> DES BILLETS",
+        "sellTicketsSubl": "Vous souhaitez vendre des billets ? Voici comment vous y prendre :",
+        "sellTicketsBullets": [{
+            "sellTickets": "Si vous n’avez pas de compte StubHub, créez-en un maintenant. Téléchargez notre guide de création de compte sur le site allemand de StubHub pour connaître les étapes à suivre.",
+            "number": "1"
+        }, {
+            "sellTickets": "Avant de publier vos billets pour cet évènement spécial, nous avons besoin d’obtenir des informations supplémentaires. Envoyez un e-mail à notre équipe d’évènements spéciaux à : <a href=\"mailto:sonderveranstaltung@stubhub.de\">sonderveranstaltung@stubhub.de</a> et nous vous répondrons en vous indiquant les étapes à suivre. Vous ne pourrez pas publier de billets avant que notre équipe d’évènements spéciaux vous ait donné le feu vert.",
+            "number": "2"
+        }, {
+            "sellTickets": "Une fois que vous avez été accepté comme vendeur, trouvez le match pour lequel vous souhaitez vendre des billets sur ce site et cliquez sur « vendre ».",
+            "number": "3"
+        }, {
+            "sellTickets": "Vous serez redirigé vers le site allemand de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) afin de publier vos billets. Téléchargez notre guide de vente de billets qui vous expliquera les étapes à suivre très simplement.",
+            "number": "4"
+        }, {
+            "sellTickets": "Une fois vos billets vendus, vous serez payé 5 à 8 jours ouvrables après le match.",
+            "number": "5"
+        }],
+        "sellTicketsDownloadCta1": "Télécharger le guide de vente de billets",
+        "sellTicketsDownloadCta2": "Questions fréquentes",
+        "whyChoose": "<span class=\"eufr16-blue\">POURQUOI</span> CHOISIR STUBHUB ?",
+        "whyChooseDescr": "StubHub est une entreprise eBay. Notre garantie FanProtect protège toutes les commandes, vous pouvez donc acheter et vendre des billets en toute confiance.",
+        "whyChooseBuySubl": "Pour les acheteurs :",
+        "whyChooseBuyBullets": [{
+            "whyChooseBuy": "Vous recevrez les billets commandés à temps pour l’évènement et ils seront valables pour entrer dans le stade. Si ce n’est pas le cas, nous trouverons des billets équivalents ou nous vous rembourserons."
+        }, {
+            "whyChooseBuy": "Vous serez remboursé si votre évènement est annulé et non reprogrammé."
+        }, {
+            "whyChooseBuy": "Nous disposons d’un service clientèle, les vendeurs ne vous contacteront jamais directement."
+        }],
+
+        "whyChooseSellSubl": "Pour les vendeurs :",
+        "whyChooseSellBullets": [{
+            "whyChooseSell": "La publication de vos billets est gratuite."
+        }, {
+            "whyChooseSell": "Vous fixez votre prix et vous pouvez le modifier à tout moment avant la vente."
+        }, {
+            "whyChooseSell": "Vous serez payé pour toute vente effectuée conformément a votre mis en vent sur notre site."
+        }, {
+            "whyChooseSell": "Vous n’aurez jamais à traiter directement avec les acheteurs."
+        }],
+        "faq": "<span class=\"eufr16-blue\">QUESTIONS</span> FRÉQUENTES",
+        "faqQuestions": [{
+            "faqQuestion": "Je dispose déjà d’un compte StubHub britannique, américain ou allemand. Dois-je en créer un nouveau ?",
+            "faqAnswer": "Vous n’avez pas besoin de créer un nouveau compte. Vous pouvez utiliser votre compte StubHub existant pour acheter des billets pour des matches de foot sur <a href=\"http://www.stubhub.de\">stubhub.de</a>.</p><p>Les clients résidant en Angleterre ou au pays de Galles ne peuvent pas acheter ni vendre de billets pour l’EURO 2016, en raison des lois sur la revente de billets de football au Royaume-Uni."
+        }, {
+            "faqQuestion": "Comment puis-je acheter des billets si je ne sais pas quelles équipes vont jouer ?",
+            "faqAnswer": "Les billets des étapes d’élimination directe peuvent être achetés sans savoir quelles équipes joueront. Les détails des billets sont mis à jour sur ce site et sur stubhub.de dès que les équipes sont connues."
+        }, {
+            "faqQuestion": "Quand recevrai-je mes billets ?",
+            "faqAnswer": "Les billets seront émis 2 a 3 semaines avant chaque match ou bien seront disponibles le jour du match."
+        }, {
+            "faqQuestion": "Comment recevrai-je mes billets ?",
+            "faqAnswer": "Vous recevrez vos billets par lettre suivie ou vous pouvez les récupérer le jour du match près du stade."
+        }, {
+            "faqQuestion": "Comment puis-je être sûr de recevoir les billets que j’ai achetés ?",
+            "faqAnswer": "Nous vous garantissons que vous recevrez les billets que vous avez achetés à temps pour le match et qu’ils seront valables à l’entrée. Si ce n’est pas le cas, nous trouverons des billets équivalents ou nous vous rembourserons. Vous serez remboursé si votre évènement est annulé et non reprogrammé."
+        }, {
+            "faqQuestion": "Quand serai-je payé pour la vente de mes billets ?",
+            "faqAnswer": "Nous vous paierons 5 à 8 jours ouvrables après le match, à condition que l’acheteur de vos billets n’ait eu aucun problème pour assister au match."
+        }],
+
+        "lightboxSellHl": "<span class=\"eufr16-blue\">VENDRE</span> DES BILLETS",
+        "lightboxSellSl": "Pour vendre des billets pour le match que vous avez choisi, vous serez redirigé vers le site allemand de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>). </p><p><b>Avant d’y accéder, avez-vous :</b>",
+        "lightboxSellBullets": [{
+            "lightboxSell": "<b>Créé un compte StubHub ? </b>Si ce n’est pas le cas, <a href=\"https://www.stubhub.de/my/profile/\">inscrivez-vous dès maintenant</a>"
+        }, {
+            "lightboxSell": "<b>Obtenu notre validation en tant que vendeur de billets pour cet évènement spécial ?</b> Si ce n’est pas le cas, <a href=\"mailto:sonderveranstaltung@stubhub.de\">envoyez-nous un e-mail</a> dès maintenant en nous indiquant que vous souhaitez vendre des billets"
+
+        }, {
+            "lightboxSell": "<b>Oui ? Alors, allez-y. </b> Téléchargez notre <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_selling_guide_fr.pdf\">guide de vente de billets</a> pour connaître toutes les étapes à suivre."
+
+        }],
+        "lightboxSellCTA": "Vendre",
+
+        "lightboxBuyHl": "<span class=\"eufr16-blue\">ACHETER</span> DES BILLETS",
+        "lightboxBuySl": "<b>Pour acheter des billets pour le match que vous avez choisi, vous serez redirigé vers le site allemand de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>).</b> Le site est en allemand, mais vous pouvez télécharger notre <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_buying_guide_fr.pdf\">guide</a> d’achat de billets pour obtenir de l’aide.</p><p>Nous vous expliquerons également comment créer un compte StubHub si vous n’en avez pas déjà un.",
+
+        "lightboxBuyCTA": "Acheter",
+
+        "teams": {
+            "fra": {
+                "name": "FRA",
+                "flag": "fra"
+            },
+            "eng": {
+                "name": "ENG",
+                "flag": "eng"
+            },
+            "cze": {
+                "name": "CZE",
+                "flag": "cze"
+            },
+            "isl": {
+                "name": "ISL",
+                "flag": "isl"
+            },
+            "aut": {
+                "name": "AUT",
+                "flag": "aut"
+            },
+            "nir": {
+                "name": "NIR",
+                "flag": "nir"
+            },
+            "por": {
+                "name": "POR",
+                "flag": "por"
+            },
+            "esp": {
+                "name": "ESP",
+                "flag": "esp"
+            },
+            "sui": {
+                "name": "SUI",
+                "flag": "sui"
+            },
+            "ita": {
+                "name": "ITA",
+                "flag": "ita"
+            },
+            "bel": {
+                "name": "BEL",
+                "flag": "bel"
+            },
+            "wal": {
+                "name": "WAL",
+                "flag": "wal"
+            },
+            "rou": {
+                "name": "ROU",
+                "flag": "rou"
+            },
+            "alb": {
+                "name": "ALB",
+                "flag": "alb"
+            },
+            "ger": {
+                "name": "GER",
+                "flag": "ger"
+            },
+            "pol": {
+                "name": "POL",
+                "flag": "pol"
+            },
+            "rus": {
+                "name": "RUS",
+                "flag": "rus"
+            },
+            "svk": {
+                "name": "SVK",
+                "flag": "svk"
+            },
+            "cro": {
+                "name": "CRO",
+                "flag": "cro"
+            },
+            "tur": {
+                "name": "TUR",
+                "flag": "tur"
+            },
+            "hun": {
+                "name": "HUN",
+                "flag": "hun"
+            },
+            "irl": {
+                "name": "IRL",
+                "flag": "irl"
+            },
+            "swe": {
+                "name": "SWE",
+                "flag": "swe"
+            },
+            "ukr": {
+                "name": "UKR",
+                "flag": "ukr"
+            },
+
+
+            "a2": {
+                "name": "Team A2",
+                "flag": "tmp_light"
+            },
+            "a3": {
+                "name": "Team A3",
+                "flag": "tmp_light"
+            },
+            "a4": {
+                "name": "Team A4",
+                "flag": "tmp_light"
+            },
+            "a5": {
+                "name": "Team A5",
+                "flag": "tmp_light"
+            },
+            "a6": {
+                "name": "Team A6",
+                "flag": "tmp_light"
+            },
+            "b1": {
+                "name": "Team B1",
+                "flag": "tmp_light"
+            },
+            "b2": {
+                "name": "Team B2",
+                "flag": "tmp_light"
+            },
+            "b3": {
+                "name": "Team B3",
+                "flag": "tmp_light"
+            },
+            "b4": {
+                "name": "Team B4",
+                "flag": "tmp_light"
+            },
+            "b5": {
+                "name": "Team B5",
+                "flag": "tmp_light"
+            },
+            "b6": {
+                "name": "Team B6",
+                "flag": "tmp_light"
+            },
+            "c1": {
+                "name": "Team C1",
+                "flag": "tmp_light"
+            },
+            "c2": {
+                "name": "Team C2",
+                "flag": "tmp_light"
+            },
+            "c3": {
+                "name": "Team C3",
+                "flag": "tmp_light"
+            },
+            "c4": {
+                "name": "Team C4",
+                "flag": "tmp_light"
+            },
+            "c5": {
+                "name": "Team C5",
+                "flag": "tmp_light"
+            },
+            "c6": {
+                "name": "Team C6",
+                "flag": "tmp_light"
+            },
+            "d1": {
+                "name": "Team D1",
+                "flag": "tmp_light"
+            },
+            "d2": {
+                "name": "Team D2",
+                "flag": "tmp_light"
+            },
+            "d3": {
+                "name": "Team D3",
+                "flag": "tmp_light"
+            },
+            "d4": {
+                "name": "Team D4",
+                "flag": "tmp_light"
+            },
+            "d5": {
+                "name": "Team D5",
+                "flag": "tmp_light"
+            },
+            "d6": {
+                "name": "Team D6",
+                "flag": "tmp_light"
+            },
+            "e1": {
+                "name": "Team E1",
+                "flag": "tmp_light"
+            },
+            "e2": {
+                "name": "Team E2",
+                "flag": "tmp_light"
+            },
+            "e3": {
+                "name": "Team E3",
+                "flag": "tmp_light"
+            },
+            "e4": {
+                "name": "Team E4",
+                "flag": "tmp_light"
+            },
+            "e5": {
+                "name": "Team E5",
+                "flag": "tmp_light"
+            },
+            "e6": {
+                "name": "Team E6",
+                "flag": "tmp_light"
+            },
+            "f1": {
+                "name": "Team F1",
+                "flag": "tmp_light"
+            },
+            "f2": {
+                "name": "Team F2",
+                "flag": "tmp_light"
+            },
+            "f3": {
+                "name": "Team F3",
+                "flag": "tmp_light"
+            },
+            "f4": {
+                "name": "Team F4",
+                "flag": "tmp_light"
+            },
+            "f5": {
+                "name": "Team F5",
+                "flag": "tmp_light"
+            },
+            "f6": {
+                "name": "Team F6",
+                "flag": "tmp_light"
+            },
+
+            "wA": {
+                "name": "Vainqueur A",
+                "flag": "tmp_light"
+            },
+            "wB": {
+                "name": "Vainqueur B",
+                "flag": "tmp_light"
+            },
+            "wC": {
+                "name": "Vainqueur C",
+                "flag": "tmp_light"
+            },
+            "wD": {
+                "name": "Vainqueur D",
+                "flag": "tmp_light"
+            },
+            "wE": {
+                "name": "Vainqueur E",
+                "flag": "tmp_light"
+            },
+            "wF": {
+                "name": "Vainqueur F",
+                "flag": "tmp_light"
+            },
+            "ruA": {
+                "name": "2ème A",
+                "flag": "tmp_light"
+            },
+            "ruB": {
+                "name": "2ème B",
+                "flag": "tmp_light"
+            },
+            "ruC": {
+                "name": "2ème C",
+                "flag": "tmp_light"
+            },
+            "ruD": {
+                "name": "2ème D",
+                "flag": "tmp_light"
+            },
+            "ruE": {
+                "name": "2ème E",
+                "flag": "tmp_light"
+            },
+            "ruF": {
+                "name": "2ème F",
+                "flag": "tmp_light"
+            },
+            "thACD": {
+                "name": "3ème A/C/D",
+                "flag": "tmp_light"
+            },
+            "thBEF": {
+                "name": "3ème B/E/F",
+                "flag": "tmp_light"
+            },
+            "thCDE": {
+                "name": "3ème C/D/E",
+                "flag": "tmp_light"
+            },
+            "thABF": {
+                "name": "3ème A/B/F",
+                "flag": "tmp_light"
+            },
+            "w37": {
+                "name": "Vainqueur 37",
+                "flag": "tmp_dark"
+            },
+            "w38": {
+                "name": "Vainqueur 38",
+                "flag": "tmp_dark"
+            },
+            "w39": {
+                "name": "Vainqueur 39",
+                "flag": "tmp_dark"
+            },
+            "w40": {
+                "name": "Vainqueur 40",
+                "flag": "tmp_dark"
+            },
+            "w41": {
+                "name": "Vainqueur 41",
+                "flag": "tmp_dark"
+            },
+            "w42": {
+                "name": "Vainqueur 42",
+                "flag": "tmp_dark"
+            },
+            "w43": {
+                "name": "Vainqueur 43",
+                "flag": "tmp_dark"
+            },
+            "w44": {
+                "name": "Vainqueur 44",
+                "flag": "tmp_dark"
+            },
+            "w45": {
+                "name": "Vainqueur 45",
+                "flag": "tmp_darkest"
+            },
+            "w46": {
+                "name": "Vainqueur 46",
+                "flag": "tmp_darkest"
+            },
+            "w47": {
+                "name": "Vainqueur 47",
+                "flag": "tmp_darkest"
+            },
+            "w48": {
+                "name": "Vainqueur 48",
+                "flag": "tmp_darkest"
+            },
+            "w49": {
+                "name": "Vainqueur 49",
+                "flag": "tmp_lightest"
+            },
+            "w50": {
+                "name": "Vainqueur 50",
+                "flag": "tmp_lightest"
+            }
+        },
+
+        "stadiums": {
+            "sdf": {
+                "name": "Stade de France",
+                "city": "SAINT-DENIS"
+            },
+            "sgg": {
+                "name": "Stade Geoffroy Guichard",
+                "city": "SAINT &Eacute;TIENNE"
+            },
+            "pdp": {
+                "name": "Parc des Princes",
+                "city": "PARIS"
+            },
+            "sv": {
+                "name": "Stade Vélodrome",
+                "city": "MARSEILLE"
+            },
+            "spm": {
+                "name": "Stade Pierre Mauroy",
+                "city": "LILLE MÉTROPOLE"
+            },
+            "sdl": {
+                "name": "Stade de Lyon",
+                "city": "LYON"
+            },
+            "sbd": {
+                "name": "Stade Bollaert-Delelis",
+                "city": "LENS AGGLO"
+            },
+            "sdb": {
+                "name": "Stade de Bordeaux",
+                "city": "BOARDEAUX"
+            },
+            "sdn": {
+                "name": "Stade de Nice",
+                "city": "NICE"
+            },
+            "sdt": {
+                "name": "Stadium de Toulouse",
+                "city": "TOULOUSE"
+            }
+        },
+
+        "months": {
+            "06": "Juin",
+            "07": "Juillet"
+        },
+
+        "dayPostfix": {
+            "1": " ",
+            "2": " ",
+            "3": " ",
+            "_": " "
+        }
+    },
+    "es": {
+        "chooseLanguage": "Elija el idioma",
+        "english": "English",
+        "french": "Français",
+        "german": "Deutsch",
+        "spanish": "Español",
+        "italian": "Italiano",
+        "headline": "CAMPEONATO EUROPEO<br><span class=\"eufr16-red\"> DE FÚTBOL</span> <br><span class=\"eufr16-red\">(EUROCOPA 2016)</span>",
+        "subline": "El partido va a empezar… y nosotros tenemos las entradas",
+        "freeListing": "Publica <span>gratis</span> tus entradas",
+        "images": "es",
+        "tabGroup": "<b>PARTIDOS </b>DE GRUPO",
+        "tabKnockout": "<b>FASE DE </b>GRUPOS DE CLASIFICACIÓN",
+        "tabHowto": "<b>CÓMO COMPRAR</b> Y VENDER ENTRADAS ",
+        "groupA": "GRUPO A",
+        "groupB": "GRUPO B",
+        "groupC": "GRUPO C",
+        "groupD": "GRUPO D",
+        "groupE": "GRUPO E",
+        "groupF": "GRUPO F",
+        "gameLabel": "Partido",
+        "mbBuy": "Comprar",
+        "mbSell": "Vender",
+        "sellingExpired": "La compra y venta para este partido está cerrada",
+        "round16": "<b>Dieciseisavos</b> de final",
+        "quarterFinal": "<b>Cuartos</b> de Final",
+        "semiFinal": "<b>Semi-</b>Finales",
+        "final": "Final",
+
+        "buyTicketsHl": "<span class=\"eufr16-blue\">COMPRA</span> DE ENTRADAS",
+        "buyTicketsSubl": "Aquí estamos para ayudarte a conseguir entradas para fantásticos partidos de fútbol este verano. Funciona así:",
+        "buyTicketsBullets": [{
+            "buyTickets": "Encuentra el partido al que te interesa ir y haz clic en “comprar”.",
+            "number": "1"
+        }, {
+            "buyTickets": "Serás redirigido al <a href=\"http://www.stubhub.de\">stubhub.de</a> para comprar entradas. El sitio está en alemán, por lo que deberías descargar nuestra guía sobre comprar entradas que te enseñará de una forma muy simple cómo hacerlo. También te ayudaremos a crear una cuenta StubHub si no tienes ya una.",
+            "number": "2"
+        }, {
+            "buyTickets": "Una vez que hayas comprado las entradas, te enviaremos un correo electrónico unos minutos después para confirmar tu compra.",
+            "number": "3"
+        }, {
+            "buyTickets": "Recibirás tus entradas mediante entrega con seguimiento o las podrás recoger el día del partido cerca del estadio.",
+            "number": "4"
+        }],
+        "buyTicketsDownloadCta1": "Descargar la guía del proceso de compra de entradas",
+        "buyTicketsDownloadCta2": "Preguntas Más Frecuentes sobre la compra de entradas ",
+        "sellTicketsHl": "<span class=\"eufr16-blue\">VENTA</span> DE ENTRADAS",
+        "sellTicketsSubl": "¿Tienes entradas para vender? Esto es lo que hay que hacer:",
+        "sellTicketsBullets": [{
+            "sellTickets": "Si no tienes una cuenta StubHub crea una ahora. Descarga nuestra guía sobre cómo crear una cuenta en el sitio alemán de  StubHub que te enseñará qué hacer, paso a paso.",
+            "number": "1"
+        }, {
+            "sellTickets": "Antes de poner en la lista tus entradas para ese evento especial, necesitamos algo más de información sobre ti que lo habitual. Envía un correo electrónico a nuestro equipo de eventos especiales  <a href=\"mailto:sonderveranstaltung@stubhub.de\">sonderveranstaltung@stubhub.de</a> y nos pondremos en contacto contigo sobre qué hacer. No podrás publicar entradas hasta que nuestro equipo de eventos especiales te haya dado su aprobación.",
+            "number": "2"
+        }, {
+            "sellTickets": "Cuando hayas recibido aprobación para vender entradas, encuentra el partido para el cual te interesa vender entradas en este sitio y haz clic en “vender”.",
+            "number": "3"
+        }, {
+            "sellTickets": "Te redirigiremos al <a href=\"http://www.stubhub.de\">stubhub.de</a> para poner en la lista tus entradas. Descarga nuestra guía sobre cómo poner entradas en la lista que te enseñará qué hacer, paso a paso.",
+            "number": "4"
+        }, {
+            "sellTickets": "Cuando tus entradas se vendan, se te pagará entre 5 y 8 días laborables después del partido.",
+            "number": "5"
+        }],
+        "sellTicketsDownloadCta1": "Descargar la guía del proceso de venta de entradas",
+        "sellTicketsDownloadCta2": "Preguntas Más Frecuentes sobre la venta de entradas",
+        "whyChoose": "<span class=\"eufr16-blue\">¿POR QUÉ</span> ELEGIR STUBHUB?",
+        "whyChooseDescr": "StubHub es una compañía de eBay. Nuestra Garantía FanProtect respalda todos los pedidos para que tu puedas comprar y vender entradas con el 100% de confianza.",
+        "whyChooseBuySubl": "Para los compradores:",
+        "whyChooseBuyBullets": [{
+            "whyChooseBuy": "Tu recibirás las entradas que encargaste a tiempo para el evento y serán válidas para acceder. Si eso no ocurre, encontraremos entradas de sustitución comparables o te enviaremos un reembolso."
+        }, {
+            "whyChooseBuy": "Recibirás un reembolso si se cancela tu evento y no se reprograma."
+        }, {
+            "whyChooseBuy": "Nosotros nos encargamos del apoyo al cliente, por lo que los vendedores nunca se pondrán en contacto directo contigo."
+        }],
+
+        "whyChooseSellSubl": "Para vendedores:",
+        "whyChooseSellBullets": [{
+            "whyChooseSell": "Publicas tus entradas es gratis."
+        }, {
+            "whyChooseSell": "Tu fijas el precio y puedes ajustarlo en cualquier momento antes de que se vendan tus entradas."
+        }, {
+            "whyChooseSell": "Como se te ha prometido al ponerte en la lista, se te pagará por todas las ventas que hayas completado."
+        }, {
+            "whyChooseSell": "Nunca tendrás que tratar directamente con los compradores."
+        }],
+        "faq": "<span class=\"eufr16-blue\">PREGUNTAS</span> MÁS FRECUENTES",
+        "faqQuestions": [{
+            "faqQuestion": "Ya tengo una cuenta StubHub del Reino Unido, Estados Unidos o Alemania. ¿Tengo que crear una cuenta nueva?",
+            "faqAnswer": "No tienes que crear una nueva cuenta. Puedes utilizar tu actual cuenta StubHub para comprar entradas para partidos de fútbol en <a href=\"http://www.stubhub.de\">stubhub.de</a>.</p><p>Los clientes que viven en Inglaterra o Gales no pueden comprar o vender entradas para la EUROCOPA 2016. Esto se debe a la normativa relativa a la reventa de entradas de fútbol en el Reino Unido."
+        }, {
+            "faqQuestion": "¿Cómo puedo comprar entradas cuando no sé quién va a jugar?",
+            "faqAnswer": "Se pueden comprar entradas para la fase de clasificación sin saber qué equipos jugarán. Actualizamos detalles sobre las entradas en este sitio y en <a href=\"http://www.stubhub.de\">stubhub.de</a> cuando sabemos quién está jugando contra quién."
+        }, {
+            "faqQuestion": "¿Cuándo recibiré mis entradas?",
+            "faqAnswer": "Las entradas se proporcionan 2 o 3 semanas antes de cada partido o estarán disponibles el día del partido."
+        }, {
+            "faqQuestion": "¿Cómo recibiré mis entradas?",
+            "faqAnswer": "Recibirás tus entradas por entrega con seguimiento o puedes recogerlas el día del partido cerca del lugar del encuentro."
+        }, {
+            "faqQuestion": "¿Cómo puedo estar seguro(a) de que recibiré las entradas que he comprado?",
+            "faqAnswer": "Garantizamos que recibirás las entradas que has encargado a tiempo para el evento y que serán válidas para acceder. Si eso no ocurre, encontraremos entradas de sustitución comparables o te enviaremos un reembolso. Recibirás un reembolso si se cancela tu evento y no se reprograma."
+        }, {
+            "faqQuestion": "¿Cuándo se me pagará por las entradas que he vendido?",
+            "faqAnswer": "Te pagaremos entre 5 y 8 días laborables después del evento, con tal de que el comprador de tus entradas no haya tenido problemas para acceder al partido."
+        }],
+
+        "lightboxSellHl": "<span class=\"eufr16-blue\">VENTA</span> DE ENTRADAS",
+        "lightboxSellSl": "Para vender entradas para el partido que tu hayas elegido, te redirigiremos al sitio alemán de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>)</p><p><b>Antes de entrar, ¿has:</b>",
+        "lightboxSellBullets": [{
+            "lightboxSell": "<b>Creado una cuenta StubHub?</b>Si no lo has hecho, <a href=\"https://www.stubhub.de/my/profile/\"> regístrate ahora</a>"
+        }, {
+            "lightboxSell": "<b>Recibido nuestra aprobación para vender entradas para ese evento especial?</b> Si no la has recibido, <a href=\"mailto:sonderveranstaltung@stubhub.de\">envíanos un correo electrónico ahora</a> para decirnos que quieres vender entradas"
+
+        }, {
+            "lightboxSell": "<b>¿Sí? Entonces está listo(a).</b> Descarga nuestra <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_selling_guide_es.pdf\">guía del proceso de venta de entradas</a> que te enseñará exactamente lo que has de hacer."
+
+        }],
+        "lightboxSellCTA": "Vender",
+
+        "lightboxBuyHl": "<span class=\"eufr16-blue\">COMPRA</span> DE ENTRADAS",
+        "lightboxBuySl": "<b>Para comprar entradas para el partido que usted haya elegido, le redirigiremos al sitio alemán de StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>).</b>El sitio está en alemán, por lo que debería descargar nuestra guía sobre comprar entradas para tener alguna ayuda.</p><p>También le enseñaremos cómo crear una cuenta StubHub si usted no tiene ya una.",
+
+        "lightboxBuyCTA": "Comprar",
+
+        "teams": {
+            "fra": {
+                "name": "FRA",
+                "flag": "fra"
+            },
+            "eng": {
+                "name": "ING",
+                "flag": "eng"
+            },
+            "cze": {
+                "name": "CHE",
+                "flag": "cze"
+            },
+            "isl": {
+                "name": "ISL",
+                "flag": "isl"
+            },
+            "aut": {
+                "name": "AUS",
+                "flag": "aut"
+            },
+            "nir": {
+                "name": "IRN",
+                "flag": "nir"
+            },
+            "por": {
+                "name": "POR",
+                "flag": "por"
+            },
+            "esp": {
+                "name": "ESP",
+                "flag": "esp"
+            },
+            "sui": {
+                "name": "SUI",
+                "flag": "sui"
+            },
+            "ita": {
+                "name": "ITA",
+                "flag": "ita"
+            },
+            "bel": {
+                "name": "BEL",
+                "flag": "bel"
+            },
+            "wal": {
+                "name": "GAL",
+                "flag": "wal"
+            },
+            "rou": {
+                "name": "RUM",
+                "flag": "rou"
+            },
+            "alb": {
+                "name": "ALB",
+                "flag": "alb"
+            },
+            "ger": {
+                "name": "ALE",
+                "flag": "ger"
+            },
+            "pol": {
+                "name": "POL",
+                "flag": "pol"
+            },
+            "rus": {
+                "name": "RUS",
+                "flag": "rus"
+            },
+            "svk": {
+                "name": "ESQ",
+                "flag": "svk"
+            },
+            "cro": {
+                "name": "CRO",
+                "flag": "cro"
+            },
+            "tur": {
+                "name": "TUR",
+                "flag": "tur"
+            },
+            "hun": {
+                "name": "HUN",
+                "flag": "hun"
+            },
+            "irl": {
+                "name": "IRL",
+                "flag": "irl"
+            },
+            "swe": {
+                "name": "SUE",
+                "flag": "swe"
+            },
+            "ukr": {
+                "name": "UCR",
+                "flag": "ukr"
+            },
+
+
+            "a2": {
+                "name": "Team A2",
+                "flag": "tmp_light"
+            },
+            "a3": {
+                "name": "Team A3",
+                "flag": "tmp_light"
+            },
+            "a4": {
+                "name": "Team A4",
+                "flag": "tmp_light"
+            },
+            "a5": {
+                "name": "Team A5",
+                "flag": "tmp_light"
+            },
+            "a6": {
+                "name": "Team A6",
+                "flag": "tmp_light"
+            },
+            "b1": {
+                "name": "Team B1",
+                "flag": "tmp_light"
+            },
+            "b2": {
+                "name": "Team B2",
+                "flag": "tmp_light"
+            },
+            "b3": {
+                "name": "Team B3",
+                "flag": "tmp_light"
+            },
+            "b4": {
+                "name": "Team B4",
+                "flag": "tmp_light"
+            },
+            "b5": {
+                "name": "Team B5",
+                "flag": "tmp_light"
+            },
+            "b6": {
+                "name": "Team B6",
+                "flag": "tmp_light"
+            },
+            "c1": {
+                "name": "Team C1",
+                "flag": "tmp_light"
+            },
+            "c2": {
+                "name": "Team C2",
+                "flag": "tmp_light"
+            },
+            "c3": {
+                "name": "Team C3",
+                "flag": "tmp_light"
+            },
+            "c4": {
+                "name": "Team C4",
+                "flag": "tmp_light"
+            },
+            "c5": {
+                "name": "Team C5",
+                "flag": "tmp_light"
+            },
+            "c6": {
+                "name": "Team C6",
+                "flag": "tmp_light"
+            },
+            "d1": {
+                "name": "Team D1",
+                "flag": "tmp_light"
+            },
+            "d2": {
+                "name": "Team D2",
+                "flag": "tmp_light"
+            },
+            "d3": {
+                "name": "Team D3",
+                "flag": "tmp_light"
+            },
+            "d4": {
+                "name": "Team D4",
+                "flag": "tmp_light"
+            },
+            "d5": {
+                "name": "Team D5",
+                "flag": "tmp_light"
+            },
+            "d6": {
+                "name": "Team D6",
+                "flag": "tmp_light"
+            },
+            "e1": {
+                "name": "Team E1",
+                "flag": "tmp_light"
+            },
+            "e2": {
+                "name": "Team E2",
+                "flag": "tmp_light"
+            },
+            "e3": {
+                "name": "Team E3",
+                "flag": "tmp_light"
+            },
+            "e4": {
+                "name": "Team E4",
+                "flag": "tmp_light"
+            },
+            "e5": {
+                "name": "Team E5",
+                "flag": "tmp_light"
+            },
+            "e6": {
+                "name": "Team E6",
+                "flag": "tmp_light"
+            },
+            "f1": {
+                "name": "Team F1",
+                "flag": "tmp_light"
+            },
+            "f2": {
+                "name": "Team F2",
+                "flag": "tmp_light"
+            },
+            "f3": {
+                "name": "Team F3",
+                "flag": "tmp_light"
+            },
+            "f4": {
+                "name": "Team F4",
+                "flag": "tmp_light"
+            },
+            "f5": {
+                "name": "Team F5",
+                "flag": "tmp_light"
+            },
+            "f6": {
+                "name": "Team F6",
+                "flag": "tmp_light"
+            },
+
+            "wA": {
+                "name": "Ganador A",
+                "flag": "tmp_light"
+            },
+            "wB": {
+                "name": "Ganador B",
+                "flag": "tmp_light"
+            },
+            "wC": {
+                "name": "Ganador C",
+                "flag": "tmp_light"
+            },
+            "wD": {
+                "name": "Ganador D",
+                "flag": "tmp_light"
+            },
+            "wE": {
+                "name": "Ganador E",
+                "flag": "tmp_light"
+            },
+            "wF": {
+                "name": "Ganador F",
+                "flag": "tmp_light"
+            },
+            "ruA": {
+                "name": "Subcampeón A",
+                "flag": "tmp_light"
+            },
+            "ruB": {
+                "name": "Subcampeón B",
+                "flag": "tmp_light"
+            },
+            "ruC": {
+                "name": "Subcampeón C",
+                "flag": "tmp_light"
+            },
+            "ruD": {
+                "name": "Subcampeón D",
+                "flag": "tmp_light"
+            },
+            "ruE": {
+                "name": "Subcampeón E",
+                "flag": "tmp_light"
+            },
+            "ruF": {
+                "name": "Subcampeón F",
+                "flag": "tmp_light"
+            },
+            "thACD": {
+                "name": "3º A/C/D",
+                "flag": "tmp_light"
+            },
+            "thBEF": {
+                "name": "3º B/E/F",
+                "flag": "tmp_light"
+            },
+            "thCDE": {
+                "name": "3º C/D/E",
+                "flag": "tmp_light"
+            },
+            "thABF": {
+                "name": "3º A/B/F",
+                "flag": "tmp_light"
+            },
+            "w37": {
+                "name": "Ganador 37",
+                "flag": "tmp_dark"
+            },
+            "w38": {
+                "name": "Ganador 38",
+                "flag": "tmp_dark"
+            },
+            "w39": {
+                "name": "Ganador 39",
+                "flag": "tmp_dark"
+            },
+            "w40": {
+                "name": "Ganador 40",
+                "flag": "tmp_dark"
+            },
+            "w41": {
+                "name": "Ganador 41",
+                "flag": "tmp_dark"
+            },
+            "w42": {
+                "name": "Ganador 42",
+                "flag": "tmp_dark"
+            },
+            "w43": {
+                "name": "Ganador 43",
+                "flag": "tmp_dark"
+            },
+            "w44": {
+                "name": "Ganador 44",
+                "flag": "tmp_dark"
+            },
+            "w45": {
+                "name": "Ganador 45",
+                "flag": "tmp_darkest"
+            },
+            "w46": {
+                "name": "Ganador 46",
+                "flag": "tmp_darkest"
+            },
+            "w47": {
+                "name": "Ganador 47",
+                "flag": "tmp_darkest"
+            },
+            "w48": {
+                "name": "Ganador 48",
+                "flag": "tmp_darkest"
+            },
+            "w49": {
+                "name": "Ganador 49",
+                "flag": "tmp_lightest"
+            },
+            "w50": {
+                "name": "Ganador 50",
+                "flag": "tmp_lightest"
+            }
+        },
+
+        "stadiums": {
+            "sdf": {
+                "name": "Stade de France",
+                "city": "SAINT-DENIS"
+            },
+            "sgg": {
+                "name": "Stade Geoffroy Guichard",
+                "city": "SAINT &Eacute;TIENNE"
+            },
+            "pdp": {
+                "name": "Parc des Princes",
+                "city": "PARIS"
+            },
+            "sv": {
+                "name": "Stade Vélodrome",
+                "city": "MARSEILLE"
+            },
+            "spm": {
+                "name": "Stade Pierre Mauroy",
+                "city": "LILLE MÉTROPOLE"
+            },
+            "sdl": {
+                "name": "Stade de Lyon",
+                "city": "LYON"
+            },
+            "sbd": {
+                "name": "Stade Bollaert-Delelis",
+                "city": "LENS AGGLO"
+            },
+            "sdb": {
+                "name": "Stade de Bordeaux",
+                "city": "BOARDEAUX"
+            },
+            "sdn": {
+                "name": "Stade de Nice",
+                "city": "NICE"
+            },
+            "sdt": {
+                "name": "Stadium de Toulouse",
+                "city": "TOULOUSE"
+            }
+        },
+
+        "months": {
+            "06": "Junio",
+            "07": "Julio"
+        },
+
+        "dayPostfix": {
+            "1": "º",
+            "2": "º",
+            "3": "º",
+            "_": "º"
+        }
+    },
+    "it": {
+        "chooseLanguage": "Scegli la lingua",
+        "english": "English",
+        "french": "Français",
+        "german": "Deutsch",
+        "spanish": "Español",
+        "italian": "Italiano",
+        "headline": "CAMPIONATO EUROPEO<br><span class=\"eufr16-red\"> DI CALCIO</span><br><span class=\"eufr16-red\">2016</span>",
+        "subline": "Non perderti il calcio d’inizio, abbiamo i biglietti!",
+        "freeListing": "La messa in vendita dei biglietti è <span>gratuita</span>",
+        "images": "it",
+        "tabGroup": "<b>GIRONI</b>",
+        "tabKnockout": "<b>PARTITE A </b>ELIMINAZIONE DIRETTA",
+        "tabHowto": "<b>COME COMPRARE</b> E VENDERE BIGLIETTI",
+        "groupA": "GIRONE A",
+        "groupB": "GIRONE B",
+        "groupC": "GIRONE C",
+        "groupD": "GIRONE D",
+        "groupE": "GIRONE E",
+        "groupF": "GIRONE F",
+        "gameLabel": "Partita",
+        "mbBuy": "Acquista",
+        "mbSell": "Vendi",
+        "sellingExpired": "La comprata e vendita di biglietti è chiusa per questa partita",
+        "round16": "<b>Ottavi di</b> finale",
+        "quarterFinal": "<b>Quarti di</b> finale",
+        "semiFinal": "<b>Semifinali</b>",
+        "final": "Finale",
+
+        "buyTicketsHl": "<span class=\"eufr16-blue\">COMPRARE</span> BIGLIETTI",
+        "buyTicketsSubl": "Siamo qui per aiutarvi a ottenere i biglietti per lo straordinario evento calcistico della prossima estate. Ecco come fare:",
+        "buyTicketsBullets": [{
+            "buyTickets": "Trovate la partita alla quale desiderate assistere e fate clic su “acquista”.",
+            "number": "1"
+        }, {
+            "buyTickets": "Sarete reindirizzati al sito tedesco di StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) per l’acquisto dei biglietti. Il sito è in tedesco, pertanto vi invitiamo a scaricare la nostra guida all’acquisto dei biglietti per concludere la transazione con la massima semplicità. Vi aiuteremo anche a creare un account StubHub se non ne avete già uno.",
+            "number": "2"
+        }, {
+            "buyTickets": " Al termine dell’acquisto dei biglietti, riceverete entro pochi minuti un’e-mail di conferma della transazione.",
+            "number": "3"
+        }, {
+            "buyTickets": "Riceverete i biglietti tramite spedizione tracciata o potrete ritirarli il giorno della partita presso il luogo dell’evento.",
+            "number": "4"
+        }],
+        "buyTicketsDownloadCta1": "Scarica la guida all’acquisto dei biglietti",
+        "buyTicketsDownloadCta2": "Domande frequenti (FAQ) sull’acquisto",
+        "sellTicketsHl": "<span class=\"eufr16-blue\">VENDERE</span> BIGLIETTI",
+        "sellTicketsSubl": "Avete biglietti da vendere? Ecco come fare:",
+        "sellTicketsBullets": [{
+            "sellTickets": "Se non disponete di un account StubHub, vi invitiamo a crearne uno immediatamente. Scaricate la nostra guida alla creazione di un account sul sito tedesco di StubHub, che vi illustrerà come procedere, passo dopo passo.",
+            "number": "1"
+        }, {
+            "sellTickets": "Prima che possiate mettere in vendita i vostri biglietti per questo evento speciale, abbiamo bisogno di alcune informazioni ulteriori rispetto a quelle generalmente richieste. Inviate un’e-mail al nostro team eventi speciali <a href=\"mailto:sonderveranstaltung@stubhub.de\">sonderveranstaltung@stubhub.de</a> e vi ricontatteremo per indicarvi come procedere. Non potrete mettere in vendita biglietti fino all’approvazione del nostro team eventi speciali.",
+            "number": "2"
+        }, {
+            "sellTickets": "Dopo aver ricevuto l’approvazione per la vendita dei biglietti, selezionate la partita per la quale intendete vendere biglietti su questo sito e fate clic su “vendi”.",
+            "number": "3"
+        }, {
+            "sellTickets": "Sarete reindirizzati al sito tedesco StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) per la messa in vendita dei vostri biglietti. Scaricate la nostra guida per la messa in vendita dei biglietti, che vi mostrerà come procedere, passo dopo passo.",
+            "number": "4"
+        }, {
+            "sellTickets": "In seguito alla vendita dei biglietti, riceverete il corrispettivo 5-8 giorni lavorativi dopo la partita.",
+            "number": "5"
+        }],
+        "sellTicketsDownloadCta1": "Scarica la guida alla vendita dei biglietti",
+        "sellTicketsDownloadCta2": "Domande frequenti (FAQ) sulla vendita",
+        "whyChoose": "<span class=\"eufr16-blue\">PERCHÉ</span> SCEGLIERE STUBHUB?",
+        "whyChooseDescr": "StubHub è un’azienda eBay. La nostra garanzia FanProtect copre la totalità degli ordini per consentirvi di acquistare e vendere biglietti con un’affidabilità del 100%.",
+        "whyChooseBuySubl": "Per gli acquirenti:",
+        "whyChooseBuyBullets": [{
+            "whyChooseBuy": "Otterrete i biglietti ordinati prima dell’evento e potrete utilizzarli per l’ingresso. In caso contrario, invieremo biglietti sostitutivi di tipo analogo o procederemo al rimborso."
+        }, {
+            "whyChooseBuy": "Otterrete un rimborso se l’evento viene annullato e non riprogrammato."
+        }, {
+            "whyChooseBuy": "Ci occupiamo personalmente dell’assistenza clienti, pertanto i venditori non vi contatteranno mai direttamente."
+        }],
+
+        "whyChooseSellSubl": "Per i venditori:",
+        "whyChooseSellBullets": [{
+            "whyChooseSell": "I biglietti possono essere messi in vendita gratuitamente."
+        }, {
+            "whyChooseSell": "Potete definire il prezzo e adeguarlo in qualsiasi momento prima che i biglietti siano stati venduti."
+        }, {
+            "whyChooseSell": "Riceverete un corrispettivo per tutte le vendite concluse, come previsto dalla vostra categoria di annuncio."
+        }, {
+            "whyChooseSell": "Non vi troverete a mai a negoziare direttamente con gli acquirenti."
+        }],
+        "faq": "DOMANDE FREQUENTI <span class=\"eufr16-blue\">(FAQ)</span>",
+        "faqQuestions": [{
+            "faqQuestion": "Dispongo già di un account sul sito britannico, statunitense o tedesco di StubHub. Devo crearne uno nuovo?",
+            "faqAnswer": "Non è necessario creare un nuovo account. È possibile utilizzare l’account StubHub esistente per acquistare biglietti per le partite di calcio su <a href=\"http://www.stubhub.de\">stubhub.de</a>.</p><p>I clienti residenti in Inghilterra o in Galles non possono comprare o vendere biglietti per il campionato UEFA EURO 2016, in applicazione di alcuni regolamenti che disciplinano la rivendita di biglietti di calcio nel Regno Unito."
+        }, {
+            "faqQuestion": "Come posso acquistare i biglietti quando non so chi giocherà?",
+            "faqAnswer": "I biglietti per le fasi a eliminazione diretta possono essere acquistati senza che si abbia la certezza di quali squadre giocheranno. Aggiorneremo i dettagli dei biglietti su questo sito e su <a href=\"http://www.stubhub.de\">stubhub.de</a> non appena avremo notizie circa le squadre coinvolte."
+        }, {
+            "faqQuestion": "Quando riceverò i miei biglietti?",
+            "faqAnswer": "I biglietti saranno emessi 2-3 settimane prima di ogni partita o saranno disponibili direttamente il giorno della partita."
+        }, {
+            "faqQuestion": "Come posso ottenere i miei biglietti?",
+            "faqAnswer": "I biglietti saranno recapitati tramite spedizione tracciata o potranno essere ritirati il giorno della partita presso il luogo dell’evento."
+        }, {
+            "faqQuestion": "Come posso avere la garanzia di ricevere i biglietti che ho acquistato?",
+            "faqAnswer": "Garantiamo che i biglietti saranno recapitati prima dell’evento e saranno validi per l’ingresso. In caso contrario, invieremo biglietti sostitutivi di tipo analogo o procederemo al rimborso. Il rimborso sarà effettuato se l’evento viene annullato e non riprogrammato."
+        }, {
+            "faqQuestion": "Quando riceverò il pagamento per i biglietti venduti?",
+            "faqAnswer": "Il pagamento sarà effettuato 5-8 giorni dopo l’evento, a condizione che l’acquirente dei biglietti non abbia avuto problemi ad accedere alla partita."
+        }],
+
+        "lightboxSellHl": "<span class=\"eufr16-blue\">VENDERE</span> BIGLIETTI",
+        "lightboxSellSl": "Per vendere i biglietti per la partita che avete selezionato, vi reindirizzeremo al sito tedesco di StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>) </p><p><b>Prima di procedere:</b>",
+        "lightboxSellBullets": [{
+            "lightboxSell": "<b>Avete creato un account StubHub?</b> Se non lo avete ancora fatto,<a href=\"https://www.stubhub.de/my/profile/\"> registratevi subito</a>"
+        }, {
+            "lightboxSell": "<b>Avete ottenuto la nostra approvazione per la vendita di biglietti per questo evento speciale?</b> Se non avete ricevuto la nostra approvazione, vi invitiamo a contattarci immediatamente via <a href=\"mailto:sonderveranstaltung@stubhub.de\">e-mail</a> per informarci che desiderate vendere biglietti"
+
+        }, {
+            "lightboxSell": "<b>Sì? Allora potete procedere. </b> <a href=\"http://cache1.stubhubstatic.com/promotions/scratch/lt/ticket_selling_guide_it.pdf\">Scaricate la nostra guida</a> alla messa in vendita dei biglietti, che vi mostrerà esattamente come procedere."
+
+        }],
+        "lightboxSellCTA": "Vendi",
+
+        "lightboxBuyHl": "<span class=\"eufr16-blue\">COMPRARE</span> BIGLIETTI",
+        "lightboxBuySl": "<b>Per acquistare i biglietti per la partita che avete selezionato, vi reindirizzeremo al sito tedesco di StubHub (<a href=\"http://www.stubhub.de\">stubhub.de</a>).</b> Il sito è in lingua tedesca, pertanto vi invitiamo a scaricare la nostra guida all’acquisto dei biglietti, che vi assisterà durante la procedura. </p><p>Vi mostreremo anche come creare un account StubHub se non ne avete già uno.",
+
+        "lightboxBuyCTA": "Acquista",
+
+        "teams": {
+            "fra": {
+                "name": "FRA",
+                "flag": "fra"
+            },
+            "eng": {
+                "name": "ENG",
+                "flag": "eng"
+            },
+            "cze": {
+                "name": "CZE",
+                "flag": "cze"
+            },
+            "isl": {
+                "name": "ISL",
+                "flag": "isl"
+            },
+            "aut": {
+                "name": "AUT",
+                "flag": "aut"
+            },
+            "nir": {
+                "name": "NIR",
+                "flag": "nir"
+            },
+            "por": {
+                "name": "POR",
+                "flag": "por"
+            },
+            "esp": {
+                "name": "ESP",
+                "flag": "esp"
+            },
+            "sui": {
+                "name": "SUI",
+                "flag": "sui"
+            },
+            "ita": {
+                "name": "ITA",
+                "flag": "ita"
+            },
+            "bel": {
+                "name": "BEL",
+                "flag": "bel"
+            },
+            "wal": {
+                "name": "WAL",
+                "flag": "wal"
+            },
+            "rou": {
+                "name": "ROU",
+                "flag": "rou"
+            },
+            "alb": {
+                "name": "ALB",
+                "flag": "alb"
+            },
+            "ger": {
+                "name": "GER",
+                "flag": "ger"
+            },
+            "pol": {
+                "name": "POL",
+                "flag": "pol"
+            },
+            "rus": {
+                "name": "RUS",
+                "flag": "rus"
+            },
+            "svk": {
+                "name": "SVK",
+                "flag": "svk"
+            },
+            "cro": {
+                "name": "CRO",
+                "flag": "cro"
+            },
+            "tur": {
+                "name": "TUR",
+                "flag": "tur"
+            },
+            "hun": {
+                "name": "HUN",
+                "flag": "hun"
+            },
+            "irl": {
+                "name": "IRL",
+                "flag": "irl"
+            },
+            "swe": {
+                "name": "SWE",
+                "flag": "swe"
+            },
+            "ukr": {
+                "name": "UKR",
+                "flag": "ukr"
+            },
+
+
+            "a2": {
+                "name": "Team A2",
+                "flag": "tmp_light"
+            },
+            "a3": {
+                "name": "Team A3",
+                "flag": "tmp_light"
+            },
+            "a4": {
+                "name": "Team A4",
+                "flag": "tmp_light"
+            },
+            "a5": {
+                "name": "Team A5",
+                "flag": "tmp_light"
+            },
+            "a6": {
+                "name": "Team A6",
+                "flag": "tmp_light"
+            },
+            "b1": {
+                "name": "Team B1",
+                "flag": "tmp_light"
+            },
+            "b2": {
+                "name": "Team B2",
+                "flag": "tmp_light"
+            },
+            "b3": {
+                "name": "Team B3",
+                "flag": "tmp_light"
+            },
+            "b4": {
+                "name": "Team B4",
+                "flag": "tmp_light"
+            },
+            "b5": {
+                "name": "Team B5",
+                "flag": "tmp_light"
+            },
+            "b6": {
+                "name": "Team B6",
+                "flag": "tmp_light"
+            },
+            "c1": {
+                "name": "Team C1",
+                "flag": "tmp_light"
+            },
+            "c2": {
+                "name": "Team C2",
+                "flag": "tmp_light"
+            },
+            "c3": {
+                "name": "Team C3",
+                "flag": "tmp_light"
+            },
+            "c4": {
+                "name": "Team C4",
+                "flag": "tmp_light"
+            },
+            "c5": {
+                "name": "Team C5",
+                "flag": "tmp_light"
+            },
+            "c6": {
+                "name": "Team C6",
+                "flag": "tmp_light"
+            },
+            "d1": {
+                "name": "Team D1",
+                "flag": "tmp_light"
+            },
+            "d2": {
+                "name": "Team D2",
+                "flag": "tmp_light"
+            },
+            "d3": {
+                "name": "Team D3",
+                "flag": "tmp_light"
+            },
+            "d4": {
+                "name": "Team D4",
+                "flag": "tmp_light"
+            },
+            "d5": {
+                "name": "Team D5",
+                "flag": "tmp_light"
+            },
+            "d6": {
+                "name": "Team D6",
+                "flag": "tmp_light"
+            },
+            "e1": {
+                "name": "Team E1",
+                "flag": "tmp_light"
+            },
+            "e2": {
+                "name": "Team E2",
+                "flag": "tmp_light"
+            },
+            "e3": {
+                "name": "Team E3",
+                "flag": "tmp_light"
+            },
+            "e4": {
+                "name": "Team E4",
+                "flag": "tmp_light"
+            },
+            "e5": {
+                "name": "Team E5",
+                "flag": "tmp_light"
+            },
+            "e6": {
+                "name": "Team E6",
+                "flag": "tmp_light"
+            },
+            "f1": {
+                "name": "Team F1",
+                "flag": "tmp_light"
+            },
+            "f2": {
+                "name": "Team F2",
+                "flag": "tmp_light"
+            },
+            "f3": {
+                "name": "Team F3",
+                "flag": "tmp_light"
+            },
+            "f4": {
+                "name": "Team F4",
+                "flag": "tmp_light"
+            },
+            "f5": {
+                "name": "Team F5",
+                "flag": "tmp_light"
+            },
+            "f6": {
+                "name": "Team F6",
+                "flag": "tmp_light"
+            },
+
+            "wA": {
+                "name": "Vincitore A",
+                "flag": "tmp_light"
+            },
+            "wB": {
+                "name": "Vincitore B",
+                "flag": "tmp_light"
+            },
+            "wC": {
+                "name": "Vincitore C",
+                "flag": "tmp_light"
+            },
+            "wD": {
+                "name": "Vincitore D",
+                "flag": "tmp_light"
+            },
+            "wE": {
+                "name": "Vincitore E",
+                "flag": "tmp_light"
+            },
+            "wF": {
+                "name": "Vincitore F",
+                "flag": "tmp_light"
+            },
+            "ruA": {
+                "name": "2° A",
+                "flag": "tmp_light"
+            },
+            "ruB": {
+                "name": "2° B",
+                "flag": "tmp_light"
+            },
+            "ruC": {
+                "name": "2° C",
+                "flag": "tmp_light"
+            },
+            "ruD": {
+                "name": "2° D",
+                "flag": "tmp_light"
+            },
+            "ruE": {
+                "name": "2° E",
+                "flag": "tmp_light"
+            },
+            "ruF": {
+                "name": "2° F",
+                "flag": "tmp_light"
+            },
+            "thACD": {
+                "name": "3° A/C/D",
+                "flag": "tmp_light"
+            },
+            "thBEF": {
+                "name": "3° B/E/F",
+                "flag": "tmp_light"
+            },
+            "thCDE": {
+                "name": "3° C/D/E",
+                "flag": "tmp_light"
+            },
+            "thABF": {
+                "name": "3° A/B/F",
+                "flag": "tmp_light"
+            },
+            "w37": {
+                "name": "Vincitore 37",
+                "flag": "tmp_dark"
+            },
+            "w38": {
+                "name": "Vincitore 38",
+                "flag": "tmp_dark"
+            },
+            "w39": {
+                "name": "Vincitore 39",
+                "flag": "tmp_dark"
+            },
+            "w40": {
+                "name": "Vincitore 40",
+                "flag": "tmp_dark"
+            },
+            "w41": {
+                "name": "Vincitore 41",
+                "flag": "tmp_dark"
+            },
+            "w42": {
+                "name": "Vincitore 42",
+                "flag": "tmp_dark"
+            },
+            "w43": {
+                "name": "Vincitore 43",
+                "flag": "tmp_dark"
+            },
+            "w44": {
+                "name": "Vincitore 44",
+                "flag": "tmp_dark"
+            },
+            "w45": {
+                "name": "Vincitore 45",
+                "flag": "tmp_darkest"
+            },
+            "w46": {
+                "name": "Vincitore 46",
+                "flag": "tmp_darkest"
+            },
+            "w47": {
+                "name": "Vincitore 47",
+                "flag": "tmp_darkest"
+            },
+            "w48": {
+                "name": "Vincitore 48",
+                "flag": "tmp_darkest"
+            },
+            "w49": {
+                "name": "Vincitore 49",
+                "flag": "tmp_lightest"
+            },
+            "w50": {
+                "name": "Vincitore 50",
+                "flag": "tmp_lightest"
+            }
+        },
+
+        "stadiums": {
+            "sdf": {
+                "name": "Stade de France",
+                "city": "SAINT-DENIS"
+            },
+            "sgg": {
+                "name": "Stade Geoffroy Guichard",
+                "city": "SAINT &Eacute;TIENNE"
+            },
+            "pdp": {
+                "name": "Parc des Princes",
+                "city": "PARIS"
+            },
+            "sv": {
+                "name": "Stade Vélodrome",
+                "city": "MARSEILLE"
+            },
+            "spm": {
+                "name": "Stade Pierre Mauroy",
+                "city": "LILLE MÉTROPOLE"
+            },
+            "sdl": {
+                "name": "Stade de Lyon",
+                "city": "LYON"
+            },
+            "sbd": {
+                "name": "Stade Bollaert-Delelis",
+                "city": "LENS AGGLO"
+            },
+            "sdb": {
+                "name": "Stade de Bordeaux",
+                "city": "BOARDEAUX"
+            },
+            "sdn": {
+                "name": "Stade de Nice",
+                "city": "NICE"
+            },
+            "sdt": {
+                "name": "Stadium de Toulouse",
+                "city": "TOULOUSE"
+            }
+        },
+
+        "months": {
+            "06": "Giugno",
+            "07": "Luglio"
+        },
+
+        "dayPostfix": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "_": ""
+        }
+    }
+}
